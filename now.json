@@ -1,5 +1,4 @@
 {
-  "builds": [
-    { "src": "index.html", "use": "@now/static" }
-  ]
+    "version": 2,
+    "alias": "idevelop.tech"
 }

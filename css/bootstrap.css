@@ -4151,6 +4151,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .nav-tabs.nav-justified {
+  height: 150px;
   width: 100%;
   border-bottom: 0;
 }
